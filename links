@@ -1,0 +1,12 @@
+Links de instalação dos arquivos essênciais de Multi Theft Auto (Linux Server) hospedado no Brasil
+Capacidade de link: 1Gbps
+
+1. https://lurahosting.com.br/mta-repo/mtasa-resources-latest.zip
+2. https://lurahosting.com.br/mta-repo/multitheftauto_linux_x64.tar.gz
+3. https://lurahosting.com.br/mta-repo/mta-baseconfig.tar.gz
+4. https://lurahosting.com.br/mta-repo/libmysqlclient.so.16
+
+Esse script é utilizado na LuraHosting como instalação dos servidores
+Optamos por criar um repositório pt-br para diminuir o tempo de instalação de nossos serviços e evitar falso positivo na proteção DDoS
+
+Fique à vontade para utilizar como quiser ;D
